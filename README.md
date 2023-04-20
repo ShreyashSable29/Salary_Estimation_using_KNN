@@ -20,3 +20,7 @@ Most of companies problems are resignation’s of salaries, one of the major cau
 
 ## The dataSet used in this project is sorted or cleaned dataset on which the Feature Scaling is done.
 ## The DataSet file is attached or uploaded above.
+
+## The detailed steps and procedure is explained in the below image.
+![Salary Estimation using K-Nearest Neighbour-1](https://user-images.githubusercontent.com/125114741/233301236-0a55d215-9697-4641-890c-cd754ae5b35d.png)
+
